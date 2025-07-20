@@ -1,4 +1,4 @@
-# Hey there, I’m Alok aka `thealokverse` and `alight` 🚀
+# Hey there, I’m Alok aka `thealokverse`🚀
 
 Welcome to my universe of code, creativity, and constant curiosity.
 
