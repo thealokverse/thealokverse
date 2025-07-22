@@ -8,7 +8,6 @@ Welcome to my universe of code, creativity, and constant curiosity.
 
 - Student.Dreamer.Creator
 - Future **Computer Science Engineer** and founder of a tech giant  
-- Building a community-driven EdTech platform: **Ignitia**  
 - Founder of **Project ALIGHT** – a YouTube channel focused on AI, self-growth, and tech storytelling  
 - Passionate about **AI, Web Development, Programming, and Personal Branding**  
 
@@ -26,19 +25,9 @@ Welcome to my universe of code, creativity, and constant curiosity.
 
 ## 🔨 Projects I’m Building
 
-- **Ignitia** – Free, open-source, community-powered platform for JEE & CS students from underserved backgrounds  
 - **Project ALIGHT** – A storytelling platform using AI, YouTube, and deep insights  
 - **Mini AI tools & productivity scripts** – Automation for creators and learners  
 - **Open-source contributions** coming soon...
-
----
-
-## 🎯 My Goals
-
-- Crack **IIT + Global UG Admissions (Stanford, MIT, etc.)**  
-- Become a top-tier software developer, tech leader & educator  
-- Build products that **solve real problems** and **uplift communities**  
-- Create content that **inspires, educates, and empowers**
 
 ---
 
