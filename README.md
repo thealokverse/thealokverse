@@ -38,7 +38,9 @@ Welcome to my universe of code, creativity, and constant curiosity.
 
 ---
 
-> "Stay hungry, stay foolish. — Steve Jobs*"
+> *"Stay hungry, stay foolish."*  
+> — **Steve Jobs**
+
 
 
 <!---
