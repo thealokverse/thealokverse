@@ -1,4 +1,4 @@
-# Hey there, I’m Alok aka `thealokverse`🚀
+# Hey there, I’m Alok 🚀
 
 Welcome to my universe of code, creativity, and constant curiosity.
 
@@ -7,18 +7,16 @@ Welcome to my universe of code, creativity, and constant curiosity.
 ## 🚀 Who Am I?
 
 - Student.Dreamer.Creator
-- Future **Computer Science Engineer** and founder of a tech giant  
-- Founder of **Project ALIGHT** – a YouTube channel focused on AI, self-growth, and tech storytelling  
-- Passionate about **AI, Web Development, Programming, and Personal Branding**  
+- Future **Computer Science Engineer** and founder
+- Passionate about **AI, Web Development, Programming, Physics and Personal Branding**  
 
 ---
 
 ## 🧠 What I’m Learning Now
 
 - **CS50x** – Introduction to Computer Science  
-- **CS50 AI** – Building a solid foundation in Artificial Intelligence  
-- **Web Development** – HTML, CSS, JS 
-- **Python + JavaScript** – The backbone of modern projects  
+- **Web Development** – HTML, CSS, JS, Backend 
+- **Python** – The backbone of modern projects  
 - Preparing for **JEE, Olympiads, SAT**, and more  
 
 ---
@@ -35,12 +33,12 @@ Welcome to my universe of code, creativity, and constant curiosity.
 
 - **Twitter / X**: [@thealokverse](https://x.com/thealokverse)  
 - **Instagram**: [@thealokverse](https://instagram.com/thealokverse)  
-- **YouTube**: [Project ALIGHT](https://youtube.com/@ProjectALIGHT)  
+- **YouTube**: Coming soon!
 - **GitHub**: You're here already!
 
 ---
 
-> "Stay curious. Keep building. And remember — *The Prime Never Ends.*"
+> "Stay hungry, stay foolish. — Steve Jobs*"
 
 
 <!---
