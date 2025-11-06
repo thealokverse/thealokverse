@@ -6,8 +6,8 @@ Welcome to my universe of code, creativity, and constant curiosity.
 
 ## 🚀 Who Am I?
 
-- Student.Dreamer.Creator
-- Future **Computer Science Engineer** and founder
+- Student | Dreamer | Creator
+- Future **Engineer** and **Founder**
 - Passionate about **AI, Web Development, Programming, Physics and Personal Branding**  
 
 ---
@@ -23,13 +23,12 @@ Welcome to my universe of code, creativity, and constant curiosity.
 
 ## 🔨 Projects I’m Building
 
-- **Project ALIGHT** – A storytelling platform using AI, YouTube, and deep insights  
 - **Mini AI tools & productivity scripts** – Automation for creators and learners  
 - **Open-source contributions** coming soon...
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's be friends
 
 - **Twitter / X**: [@thealokverse](https://x.com/thealokverse)  
 - **Instagram**: [@thealokverse](https://instagram.com/thealokverse)  
