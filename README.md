@@ -28,8 +28,8 @@ Welcome to my universe of code, creativity, and constant curiosity.
 ---
 
 ## 📊 My GitHub stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thealokverse&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=thealokverse&show_icons=true&count_private=true)
 
 ## 📫 Let's be friends
 
