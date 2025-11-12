@@ -34,7 +34,7 @@
 ## 📫 Connect with me
 <p align="center">
   <a href="https://x.com/thealokverse"><img src="https://img.shields.io/badge/X-@thealokverse-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-hello%40you.com-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:alightalok007@gmail.com"><img src="https://img.shields.io/badge/Email-hello%40you.com-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
