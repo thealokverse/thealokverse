@@ -11,30 +11,21 @@
 <p align="center"><em>Student · Engineer · Founder</em></p>
 
 
-<!-- BIG LANGUAGE VISUALS (proper spacing & colorful logos) -->
-<p align="center" style="margin-top: 30px;">
-  <a href="https://github.com/thealokverse?tab=repositories" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-         alt="Python" width="120" height="120" 
-         style="padding: 0 40px; filter: drop-shadow(0 8px 20px rgba(3,102,214,0.25));" />
-  </a>
+<!-- BIG LANGUAGE VISUALS (simple, centered, spaced & colorful) -->
+<p align="center" style="margin-top: 25px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+       alt="Python" width="120" height="120" 
+       style="margin-right: 60px; filter: drop-shadow(0 6px 12px rgba(3,102,214,0.25));" />
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+       alt="JavaScript" width="120" height="120" 
+       style="margin: 0 60px; filter: drop-shadow(0 6px 12px rgba(247,223,30,0.3));" />
 
-  <a href="https://github.com/thealokverse?tab=repositories" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-         alt="JavaScript" width="120" height="120" 
-         style="padding: 0 40px; filter: drop-shadow(0 8px 20px rgba(247,223,30,0.35));" />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/thealokverse?tab=repositories" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
-         alt="C" width="120" height="120" 
-         style="padding: 0 40px; filter: drop-shadow(0 8px 20px rgba(0,89,156,0.3));" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
+       alt="C" width="120" height="120" 
+       style="margin-left: 60px; filter: drop-shadow(0 6px 12px rgba(0,89,156,0.3));" />
 </p>
+
 
 
 
