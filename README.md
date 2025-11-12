@@ -44,9 +44,9 @@
 </p>
 
 
-<!-- Moe Counter (anime theme) -->
+<!-- GetLoli counter (different artpack) -->
 <p align="center">
-  <img src="https://moe-counter.glitch.me/get/@thealokverse:github?theme=asoul" alt="profile counter" />
+  <img src="https://count.getloli.com/get/@thealokverse?theme=rule34" alt="profile counter" />
 </p>
 
 
