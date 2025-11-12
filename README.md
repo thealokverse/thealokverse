@@ -46,7 +46,7 @@
 
 <!-- GetLoli counter (different artpack) -->
 <p align="center">
-  <img src="https://count.getloli.com/get/@thealokverse?theme=rule34" alt="profile counter" />
+  <img src="https://count.getloli.com/get/@thealokverse?theme=rule34" alt="visits" />
 </p>
 
 
