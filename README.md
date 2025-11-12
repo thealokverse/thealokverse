@@ -11,20 +11,24 @@
 <p align="center"><em>Student · Engineer · Founder</em></p>
 
 
-<!-- BIG LANGUAGE VISUALS (simple, centered, spaced & colorful) -->
-<p align="center" style="margin-top: 25px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-       alt="Python" width="120" height="120" 
-       style="margin-right: 60px; filter: drop-shadow(0 6px 12px rgba(3,102,214,0.25));" />
+<!-- BIG LANGUAGE VISUALS (clean centered row with proper spacing) -->
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+           alt="Python" width="120" height="120" />
+    </td>
+    <td align="center" width="160">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+           alt="JavaScript" width="120" height="120" />
+    </td>
+    <td align="center" width="160">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
+           alt="C" width="120" height="120" />
+    </td>
+  </tr>
+</table>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-       alt="JavaScript" width="120" height="120" 
-       style="margin: 0 60px; filter: drop-shadow(0 6px 12px rgba(247,223,30,0.3));" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
-       alt="C" width="120" height="120" 
-       style="margin-left: 60px; filter: drop-shadow(0 6px 12px rgba(0,89,156,0.3));" />
-</p>
 
 
 
