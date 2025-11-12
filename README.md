@@ -12,36 +12,27 @@
 
 ---
 
-<!-- BIG LANGUAGE VISUALS (spaced & colorful; height matches GitHub stats images) -->
-<p align="center" style="margin-top: 18px;">
-  <!-- Each tile is an inline-block with margin; height set to 165 to match GitHub stats visuals -->
-  <a href="https://github.com/thealokverse?tab=repositories" style="display:inline-block; margin:0 28px; text-decoration:none;">
-    <img
-      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-      alt="Python"
-      height="165"
-      style="border-radius:14px; box-shadow: 0 10px 30px rgba(2,6,23,.12); display:block;"
-    />
+<!-- BIG LANGUAGE VISUALS (large, colorful & well-spaced logos) -->
+<p align="center" style="margin-top: 20px;">
+  <a href="https://github.com/thealokverse?tab=repositories" style="text-decoration:none; margin: 0 50px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+         alt="Python" width="120" height="120" 
+         style="margin: 0 40px; filter: drop-shadow(0 8px 20px rgba(3,102,214,0.25));" />
   </a>
-
-  <a href="https://github.com/thealokverse?tab=repositories" style="display:inline-block; margin:0 28px; text-decoration:none;">
-    <img
-      src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="JavaScript"
-      height="165"
-      style="border-radius:14px; box-shadow: 0 10px 30px rgba(2,6,23,.12); display:block;"
-    />
+  
+  <a href="https://github.com/thealokverse?tab=repositories" style="text-decoration:none; margin: 0 50px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+         alt="JavaScript" width="120" height="120" 
+         style="margin: 0 40px; filter: drop-shadow(0 8px 20px rgba(247,223,30,0.35));" />
   </a>
-
-  <a href="https://github.com/thealokverse?tab=repositories" style="display:inline-block; margin:0 28px; text-decoration:none;">
-    <img
-      src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
-      alt="C"
-      height="165"
-      style="border-radius:14px; box-shadow: 0 10px 30px rgba(2,6,23,.12); display:block;"
-    />
+  
+  <a href="https://github.com/thealokverse?tab=repositories" style="text-decoration:none; margin: 0 50px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
+         alt="C" width="120" height="120" 
+         style="margin: 0 40px; filter: drop-shadow(0 8px 20px rgba(0,89,156,0.3));" />
   </a>
 </p>
+
 
 ---
 
