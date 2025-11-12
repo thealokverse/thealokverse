@@ -17,7 +17,6 @@ Welcome to my universe of code, creativity, and constant curiosity.
 - **CS50x** – Introduction to Computer Science  
 - **Web Development** – HTML, CSS, JS, Backend 
 - **Python** – The backbone of modern projects  
-- Preparing for **JEE, Olympiads, SAT**, and more  
 
 ---
 
