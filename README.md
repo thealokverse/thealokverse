@@ -11,22 +11,17 @@
 <p align="center"><em>Student · Engineer · Founder</em></p>
 
 
-<!-- BIG LANGUAGE VISUALS (clean centered row, no borders, equal spacing) -->
-<div align="center" style="display: flex; justify-content: center; gap: 80px; align-items: center; flex-wrap: wrap;">
-
+<!-- BIG LANGUAGE VISUALS (perfectly centered, no table, clean spacing) -->
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
        alt="Python" width="120" height="120" />
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
        alt="JavaScript" width="120" height="120" />
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
        alt="C" width="120" height="120" />
-
-</div>
-
-
-
+</p>
 
 
 
