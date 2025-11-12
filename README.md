@@ -10,7 +10,6 @@
 <h1 align="center">Hey there — I’m Alok 👋</h1>
 <p align="center"><em>Student · Engineer · Founder</em></p>
 
----
 
 <!-- BIG LANGUAGE VISUALS (large, colorful & well-spaced logos) -->
 <p align="center" style="margin-top: 20px;">
