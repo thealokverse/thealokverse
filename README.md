@@ -29,10 +29,11 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thealokverse&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealokverse&layout=compact&theme=tokyonight&card_width=320&hide_title=false&langs_count=6" height="165" />
-</p>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=thealokverse&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealokverse&layout=compact&theme=tokyonight&langs_count=10" height="170" />
+</div>
+
 
 ---
 
