@@ -13,18 +13,33 @@
 ---
 
 <!-- BIG LANGUAGE VISUALS (spaced & colorful; height matches GitHub stats images) -->
-<p align="center" style="margin-top: 12px;">
-  <!-- Using colorful badges (brand colors) and setting height to 165px to visually match GitHub stats -->
-  <a href="https://github.com/thealokverse?tab=repositories" style="margin:0 36px; display:inline-block;">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="165" style="border-radius:12px; box-shadow: 0 8px 18px rgba(2,6,23,.08);" />
+<p align="center" style="margin-top: 18px;">
+  <!-- Each tile is an inline-block with margin; height set to 165 to match GitHub stats visuals -->
+  <a href="https://github.com/thealokverse?tab=repositories" style="display:inline-block; margin:0 28px; text-decoration:none;">
+    <img
+      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+      alt="Python"
+      height="165"
+      style="border-radius:14px; box-shadow: 0 10px 30px rgba(2,6,23,.12); display:block;"
+    />
   </a>
 
-  <a href="https://github.com/thealokverse?tab=repositories" style="margin:0 36px; display:inline-block;">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="165" style="border-radius:12px; box-shadow: 0 8px 18px rgba(2,6,23,.08);" />
+  <a href="https://github.com/thealokverse?tab=repositories" style="display:inline-block; margin:0 28px; text-decoration:none;">
+    <img
+      src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+      alt="JavaScript"
+      height="165"
+      style="border-radius:14px; box-shadow: 0 10px 30px rgba(2,6,23,.12); display:block;"
+    />
   </a>
 
-  <a href="https://github.com/thealokverse?tab=repositories" style="margin:0 36px; display:inline-block;">
-    <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="165" style="border-radius:12px; box-shadow: 0 8px 18px rgba(2,6,23,.08);" />
+  <a href="https://github.com/thealokverse?tab=repositories" style="display:inline-block; margin:0 28px; text-decoration:none;">
+    <img
+      src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
+      alt="C"
+      height="165"
+      style="border-radius:14px; box-shadow: 0 10px 30px rgba(2,6,23,.12); display:block;"
+    />
   </a>
 </p>
 
