@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">Hey — I’m Alok 🚀</h1>
-<p align="center"><em>Student · Engineer · Founder · </em></p>
+<p align="center"><em>Student · Engineer · Founder</em></p>
 
 ---
 
@@ -34,7 +34,6 @@
 ## 📫 Connect with me
 <p align="center">
   <a href="https://x.com/thealokverse"><img src="https://img.shields.io/badge/X-@thealokverse-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" /></a>
-  <a href="https://instagram.com/thealokverse"><img src="https://img.shields.io/badge/Instagram-@thealokverse-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-hello%40you.com-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
