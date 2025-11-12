@@ -11,18 +11,18 @@
 <p align="center"><em>Student · Engineer · Founder</em></p>
 
 
-<!-- BIG LANGUAGE VISUALS (clean centered row with proper spacing) -->
-<table align="center">
+<!-- BIG LANGUAGE VISUALS (clean centered row, no borders, equal spacing) -->
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center" width="160">
+    <td align="center" width="160" style="border: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
            alt="Python" width="120" height="120" />
     </td>
-    <td align="center" width="160">
+    <td align="center" width="160" style="border: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
            alt="JavaScript" width="120" height="120" />
     </td>
-    <td align="center" width="160">
+    <td align="center" width="160" style="border: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
            alt="C" width="120" height="120" />
     </td>
