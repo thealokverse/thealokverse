@@ -7,7 +7,7 @@ Welcome to my universe of code, creativity, and constant curiosity.
 ## 🚀 Who Am I?
 
 - Student | Dreamer | Creator
-- Future **Engineer** and **Founder**
+- Aspiring **Engineer** and **Founder**
 - Passionate about **AI, Web Development, Programming, Physics and Personal Branding**  
 
 ---
@@ -26,6 +26,10 @@ Welcome to my universe of code, creativity, and constant curiosity.
 - **Open-source contributions** coming soon...
 
 ---
+
+## 📊 My GitHub stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)
 
 ## 📫 Let's be friends
 
