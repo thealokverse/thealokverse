@@ -12,12 +12,20 @@
 
 ---
 
-<!-- BIG LANGUAGE VISUALS -->
-<p align="center" style="margin-top: 6px;">
-  <!-- Large logos for Python, JavaScript, C -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@14.11.0/icons/python.svg" alt="Python" height="80" style="margin:0 18px; filter: drop-shadow(0 8px 18px rgba(2,6,23,.08));" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@14.11.0/icons/javascript.svg" alt="JavaScript" height="80" style="margin:0 18px; filter: drop-shadow(0 8px 18px rgba(2,6,23,.08));" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@14.11.0/icons/c.svg" alt="C" height="80" style="margin:0 18px; filter: drop-shadow(0 8px 18px rgba(2,6,23,.08));" />
+<!-- BIG LANGUAGE VISUALS (spaced & colorful; height matches GitHub stats images) -->
+<p align="center" style="margin-top: 12px;">
+  <!-- Using colorful badges (brand colors) and setting height to 165px to visually match GitHub stats -->
+  <a href="https://github.com/thealokverse?tab=repositories" style="margin:0 36px; display:inline-block;">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="165" style="border-radius:12px; box-shadow: 0 8px 18px rgba(2,6,23,.08);" />
+  </a>
+
+  <a href="https://github.com/thealokverse?tab=repositories" style="margin:0 36px; display:inline-block;">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="165" style="border-radius:12px; box-shadow: 0 8px 18px rgba(2,6,23,.08);" />
+  </a>
+
+  <a href="https://github.com/thealokverse?tab=repositories" style="margin:0 36px; display:inline-block;">
+    <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="165" style="border-radius:12px; box-shadow: 0 8px 18px rgba(2,6,23,.08);" />
+  </a>
 </p>
 
 ---
@@ -34,20 +42,10 @@
 ## 📫 Connect with me
 <p align="center">
   <a href="https://x.com/thealokverse"><img src="https://img.shields.io/badge/X-@thealokverse-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" /></a>
-  <a href="mailto:alightalok007@gmail.com"><img src="https://img.shields.io/badge/Email-hello%40you.com-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="mailto:alightalok007@gmail.com"><img src="https://img.shields.io/badge/Email-alightalok007%40gmail.com-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 > _"Stay hungry, stay foolish."_ — **Steve Jobs**
-
-<!--
-INSTRUCTIONS:
-1. Replace the banner image:
-   - Add your banner to the repo at `assets/header.jpg` and keep the top <img> line.
-   - Or paste your image URL directly into the top <img> `src` attribute.
-2. If you want the logos to be colored differently or larger, swap the simple-icons SVG URLs for PNGs or change the height value.
-3. Want me to: 
-   - generate a custom banner image (I’ll give exact frames and a small design you can export in Canva/Figma), or 
-   - make the language logos into clickable cards that link to your project repos? Reply which one and I’ll produce it.
--->
