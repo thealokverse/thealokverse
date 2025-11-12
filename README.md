@@ -11,26 +11,31 @@
 <p align="center"><em>Student · Engineer · Founder</em></p>
 
 
-<!-- BIG LANGUAGE VISUALS (large, colorful & well-spaced logos) -->
+<!-- BIG LANGUAGE VISUALS (proper spacing & colorful logos) -->
 <p align="center" style="margin-top: 30px;">
-  <a href="https://github.com/thealokverse?tab=repositories" style="text-decoration:none; margin: 0 70px;">
+  <a href="https://github.com/thealokverse?tab=repositories" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-         alt="Python" width="125" height="125" 
-         style="margin: 0 70px; filter: drop-shadow(0 8px 20px rgba(3,102,214,0.25));" />
+         alt="Python" width="120" height="120" 
+         style="padding: 0 40px; filter: drop-shadow(0 8px 20px rgba(3,102,214,0.25));" />
   </a>
-  
-  <a href="https://github.com/thealokverse?tab=repositories" style="text-decoration:none; margin: 0 70px;">
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/thealokverse?tab=repositories" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-         alt="JavaScript" width="125" height="125" 
-         style="margin: 0 70px; filter: drop-shadow(0 8px 20px rgba(247,223,30,0.35));" />
+         alt="JavaScript" width="120" height="120" 
+         style="padding: 0 40px; filter: drop-shadow(0 8px 20px rgba(247,223,30,0.35));" />
   </a>
-  
-  <a href="https://github.com/thealokverse?tab=repositories" style="text-decoration:none; margin: 0 70px;">
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/thealokverse?tab=repositories" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
-         alt="C" width="125" height="125" 
-         style="margin: 0 70px; filter: drop-shadow(0 8px 20px rgba(0,89,156,0.3));" />
+         alt="C" width="120" height="120" 
+         style="padding: 0 40px; filter: drop-shadow(0 8px 20px rgba(0,89,156,0.3));" />
   </a>
 </p>
+
 
 
 ---
