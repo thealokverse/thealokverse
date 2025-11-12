@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">Hey — I’m Alok 🚀</h1>
-<p align="center"><em>Student · Maker · Founder-in-training · <strong>Project ALIGHT</strong></em></p>
+<p align="center"><em>Student · Engineer · Founder · </em></p>
 
 ---
 
@@ -19,13 +19,6 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@14.11.0/icons/javascript.svg" alt="JavaScript" height="80" style="margin:0 18px; filter: drop-shadow(0 8px 18px rgba(2,6,23,.08));" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@14.11.0/icons/c.svg" alt="C" height="80" style="margin:0 18px; filter: drop-shadow(0 8px 18px rgba(2,6,23,.08));" />
 </p>
-
----
-
-## 👋 Quick intro
-**Student · Maker · Creator**  
-Passionate about **AI, Web Development, Programming, Physics, and Personal Branding**  
-**Tagline:** *The Prime Never Ends.*
 
 ---
 
