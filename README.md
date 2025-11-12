@@ -7,7 +7,7 @@
   -->
 </p>
 
-<h1 align="center">Hey — I’m Alok 🚀</h1>
+<h1 align="center">Hey there — I’m Alok 🚀</h1>
 <p align="center"><em>Student · Engineer · Founder</em></p>
 
 ---
