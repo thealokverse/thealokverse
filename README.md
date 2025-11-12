@@ -32,9 +32,8 @@
 
 ## 📊 GitHub At-a-glance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thealokverse&show_icons=true&theme=radical" alt="Alok's GitHub stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealokverse&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ErenYea9er69&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenYea9er69&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
 ---
