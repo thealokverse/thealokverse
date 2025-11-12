@@ -2,7 +2,7 @@
 <p align="center">
   <!-- Example: use your own GitHub-hosted image at assets/header.jpg -->
  <div>
-    <img src="./banner.gif" width="100%" height="80%"/>
+    <img src="./banner.gif" width="100%" />
   </div>
   <!-- If you want to use the example from your friend, uncomment the next line and remove the assets line above:
   <img src="https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/bn.jpg" alt="Banner" width="900" style="max-width:100%; border-radius:12px; box-shadow: 0 8px 30px rgba(15,23,42,0.15)" />
