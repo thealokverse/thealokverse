@@ -30,13 +30,14 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-![Metrics](https://metrics.lecoq.io/thealokverse?template=classic&isocalendar=1&languages=1&achievements=1&lines=1)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=thealokverse&theme=tokyonight)
+## 📊 GitHub Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thealokverse&theme=tokyonight)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=thealokverse&theme=tokyonight&no-frame=true&column=6)
+
+![Followers](https://img.shields.io/github/followers/thealokverse?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/thealokverse?style=for-the-badge)
 
 
 
