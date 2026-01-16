@@ -30,11 +30,13 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thealokverse&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealokverse&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
+## 📊 GitHub Analytics
+
+![Metrics](https://metrics.lecoq.io/thealokverse?template=classic&isocalendar=1&languages=1&achievements=1&lines=1)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=thealokverse&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thealokverse&theme=tokyonight)
 
 
 
