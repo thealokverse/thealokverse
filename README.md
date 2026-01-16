@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center">Hey there — I’m Alok 👋</h1>
-<p align="center"><em>Student · Engineer · Founder</em></p>
+<!-- <p align="center"><em>Student · Engineer · Founder</em></p> -->
 
 
 <!-- BIG LANGUAGE VISUALS (perfectly centered, no table, clean spacing) -->
