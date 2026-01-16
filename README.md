@@ -30,14 +30,12 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=thealokverse&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thealokverse&layout=compact&theme=tokyonight" height="165">
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thealokverse&theme=tokyonight)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=thealokverse&theme=tokyonight&no-frame=true&column=6)
-
-![Followers](https://img.shields.io/github/followers/thealokverse?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/thealokverse?style=for-the-badge)
 
 
 
