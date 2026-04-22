@@ -15,10 +15,12 @@
 
 <!-- BIG LANGUAGE VISUALS (perfectly centered, no table, clean spacing) -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-       alt="Python" width="120" height="120" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-       alt="C" width="120" height="120" style="margin-left: 80px;" />
+  <span style="white-space: nowrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+         alt="Python" width="120" height="120" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+         alt="C" width="120" height="120" style="margin-left: 80px;" />
+  </span>
 </p>
 
 
