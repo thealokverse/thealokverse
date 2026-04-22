@@ -9,7 +9,7 @@
   -->
 </p>
 
-<h1 align="center">Hey there — I’m Alok 👋</h1>
+<h1 align="center">Hey there — I’m Light! </h1>
 <!-- <p align="center"><em>Student · Engineer · Founder</em></p> -->
 
 
@@ -17,9 +17,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
        alt="Python" width="120" height="120" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
-       alt="TypeScript" width="120" height="120" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
        alt="C" width="120" height="120" />
@@ -40,13 +37,6 @@
 
 
 ---
-
-## 📫 Connect with me
-<p align="center">
-  <a href="https://x.com/thealokverse"><img src="https://img.shields.io/badge/X-@thealokverse-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" /></a>
-  &nbsp;
-  <a href="mailto:alightalok007@gmail.com"><img src="https://img.shields.io/badge/Email-alightalok007%40gmail.com-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
 
 <!-- GetLoli counter (different artpack) -->
