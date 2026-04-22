@@ -1,6 +1,6 @@
 <!-- TOP BANNER -->
 <p align="center">
-  <img src="ullquiorra.gif" alt="Banner" width="800" />
+  <img src="_.gif" alt="Banner" width="800" />
 </p>
 
 <h1 align="center">Hey there — I’m Light! </h1>
