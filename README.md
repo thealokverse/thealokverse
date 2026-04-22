@@ -1,6 +1,6 @@
 <!-- TOP BANNER -->
 <p align="center">
-  <img src="_.gif" alt="Banner" width="800" />
+  <img src="1.gif" alt="Banner" width="800" />
 </p>
 
 <h1 align="center">Hey there — I’m Light! </h1>
