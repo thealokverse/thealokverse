@@ -8,7 +8,7 @@
 <!-- BIG LANGUAGE VISUALS -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="120"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="110" style="margin-left:150px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="115" style="margin-left:200px;"/>
 </p>
 
 
