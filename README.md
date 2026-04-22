@@ -11,6 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="115" style="margin-left:150px;"/>
 </p>
 
+<p align="center">─────────────── ✦ ───────────────</p>
 
 
 ---
