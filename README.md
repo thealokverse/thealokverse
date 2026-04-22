@@ -3,7 +3,7 @@
   <img src="1.gif" alt="Banner" width="800" />
 </p>
 
-<h1 align="center">Hey there — I’m Light! </h1>
+<h1 align="center">Hey there — I’m light! </h1>
 
 <!-- BIG LANGUAGE VISUALS -->
 <p align="center">
