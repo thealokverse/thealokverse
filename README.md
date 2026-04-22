@@ -8,9 +8,11 @@
 <!-- BIG LANGUAGE VISUALS -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-       alt="Python" width="120" height="120" />
+       alt="Python" width="120" height="120"
+       style="display:inline-block; vertical-align:middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-       alt="C" width="120" height="120" hspace="80" />
+       alt="C" width="120" height="120"
+       style="display:inline-block; vertical-align:middle; margin-left:80px;" />
 </p>
 
 
