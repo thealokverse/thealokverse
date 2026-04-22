@@ -7,12 +7,7 @@
 
 <!-- BIG LANGUAGE VISUALS -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-       alt="Python" width="120" height="120"
-       style="display:inline-block; vertical-align:middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-       alt="C" width="120" height="120"
-       style="display:inline-block; vertical-align:middle; margin-left:80px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="120"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="120" style="margin-left:80px;"/>
 </p>
 
 
