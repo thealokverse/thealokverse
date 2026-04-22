@@ -14,14 +14,19 @@
 
 
 <!-- BIG LANGUAGE VISUALS (perfectly centered, no table, clean spacing) -->
-<p align="center">
-  <span style="display: inline-flex; align-items: center; gap: 80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-         alt="Python" width="120" height="120" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
-         alt="C" width="120" height="120" />
-  </span>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="120" height="120"/><br>
+      Python
+    </td>
+    <td width="80"></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="120" height="120"/><br>
+      C
+    </td>
+  </tr>
+</table>
 
 
 
