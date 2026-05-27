@@ -3,12 +3,10 @@
   <img src="1.gif" alt="Banner" width="800" />
 </p>
 
-<h1 align="center">Hey there — I’m 𝗹𝗶𝗴𝗵𝘁! </h1>
+<h1 align="center">hey there — i’m light</h1>
 
-<!-- BIG LANGUAGE VISUALS -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="120"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="115" style="margin-left:150px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="85"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="82"/>
 </p>
-
-<p align="center">─────────────── ✦ ───────────────</p>
