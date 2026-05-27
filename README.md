@@ -3,10 +3,22 @@
   <img src="1.gif" alt="Banner" width="800" />
 </p>
 
-<h2 align="center">light</h2>
+<h1 align="center">Hey there — I’m 𝗹𝗶𝗴𝗵𝘁! </h1>
 
+<!-- BIG LANGUAGE VISUALS -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="82"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="78"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="120"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="115" style="margin-left:150px;"/>
 </p>
+
+<p align="center">─────────────── ✦ ───────────────</p>
+
+
+<!-- GetLoli counter (different artpack) -->
+<p align="center">
+  <img src="https://count.getloli.com/get/@thealokverse?theme=rule34" alt="visits" />
+</p>
+
+
+
+> _"Stay hungry, stay foolish."_ — **Steve Jobs**
