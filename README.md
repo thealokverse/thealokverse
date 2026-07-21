@@ -3,7 +3,7 @@
   <img src="1.gif" alt="Banner" width="800" />
 </p>
 
-<h1 align="center">hey there — I’m alok! </h1>
+<p align="center">─────────────── ✦ ───────────────</p>
 
 <!-- BIG LANGUAGE VISUALS -->
 <p align="center">
